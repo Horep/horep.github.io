@@ -1,9 +1,11 @@
-@def title = "Franklin Example"
+@def title = "Hywel Normington | University of Strathclyde"
 @def tags = ["syntax", "code"]
 
 # How to use Franklin
 
 \tableofcontents <!-- you can use \toc as well -->
+
+Hi, my name is Hywel Normington. Welcome to my website. At the moment it is under construction 🚧🚧🚧, so bare with me.
 
 This section is meant as a refresher if you're new to Franklin.
 Have a look at both how the website renders and the corresponding markdown (`index.md`).
