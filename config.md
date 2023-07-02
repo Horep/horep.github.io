@@ -2,7 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Septimia Zenobia"
+author = "Hywel Normington"
 mintoclevel = 2
 prepath = "my_site"
 # Add here files or directories that should be ignored by Franklin, otherwise
