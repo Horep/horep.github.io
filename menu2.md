@@ -8,6 +8,8 @@ rss_pubdate = Date(2019, 5, 1)
 tags = ["syntax", "code", "image"]
 +++
 
+some content
+
 <!-- # More goodies
 
 \toc
@@ -45,13 +47,6 @@ so this is plain-text stuff.
 ## A bit more highlighting
 
 Extension of highlighting for `pkg` an `shell` mode in Julia:
-
-```julia-repl
-(v1.4) pkg> add Franklin
-shell> blah
-julia> 1+1
-(Sandbox) pkg> resolve
-```
 
 you can tune the colouring in the CSS etc via the following classes:
 
