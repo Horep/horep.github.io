@@ -1,14 +1,14 @@
 +++
 title = "More goodies"
 hascode = true
-rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg)"
+rss = "if you are reading this you probably shouldn't be"
 rss_title = "More goodies"
 rss_pubdate = Date(2019, 5, 1)
 
 tags = ["syntax", "code", "image"]
 +++
 
-# More goodies
+<!-- # More goodies
 
 \toc
 
@@ -76,13 +76,6 @@ If you define a function `hfun_bar` in the `utils.jl` then you have access to a 
 
 For instance:
 
-```julia
-function hfun_bar(vname)
-  val = Meta.parse(vname[1])
-  return round(sqrt(val), digits=2)
-end
-```
-
 ~~~
 .hf {background-color:black;color:white;font-weight:bold;}
 ~~~
@@ -91,13 +84,6 @@ Can be called with `{{bar 4}}`: **{{bar 4}}**.
 
 Usually you will want to pass variable name (either local or global) and collect their value via one of `locvar`, `globvar` or `pagevar` depending on your use case.
 Let's have another toy example:
-
-```julia
-function hfun_m1fill(vname)
-  var = vname[1]
-  return pagevar("menu1", var)
-end
-```
 
 Which you can use like this `{{m1fill title}}`: **{{m1fill title}}**. Of course  in this specific case you could also have used `{{fill title menu1}}`: **{{fill title menu1}}**.
 
@@ -115,15 +101,6 @@ You can use this to do your own parsing of specific chunks of your content if yo
 
 The definition of `lx_*` commands **must** look like this:
 
-```julia
-function lx_baz(com, _)
-  # keep this first line
-  brace_content = Franklin.content(com.braces[1]) # input string
-  # do whatever you want here
-  return uppercase(brace_content)
-end
-```
-
 You can call the above with `\baz{some string}`: \baz{some string}.
 
-**Note**: the output **will be** reprocessed by Franklin, if you want to avoid this, then escape the output by using `return "~~~" * s * "~~~"` and it will be plugged  in as is in the HTML.
+**Note**: the output **will be** reprocessed by Franklin, if you want to avoid this, then escape the output by using `return "~~~" * s * "~~~"` and it will be plugged  in as is in the HTML. -->

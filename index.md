@@ -1,13 +1,15 @@
 @def title = "Hywel Normington | University of Strathclyde"
 @def tags = ["syntax", "code"]
 
-# How to use Franklin
+# Homepage of Hywel Normington
 
 \tableofcontents <!-- you can use \toc as well -->
 
 Hi, my name is Hywel Normington. Welcome to my website. At the moment it is under construction 🚧🚧🚧, so bare with me.
 
-This section is meant as a refresher if you're new to Franklin.
+I am a PhD student at the [Department of Mathematics and Statistics](https://www.strath.ac.uk/science/mathematicsstatistics/) of the [University of Strathclyde](https://www.strath.ac.uk/), working under [Dr Michele Ruggeri](https://mruggeri-math.github.io/). I am working on the [modelling, analysis and simulation of magnetoelastic materials](https://pureportal.strath.ac.uk/en/projects/modelling-analysis-and-simulation-of-magneto-elastic-and-magneto-).
+
+<!-- This section is meant as a refresher if you're new to Franklin.
 Have a look at both how the website renders and the corresponding markdown (`index.md`).
 Modify at will to get a feeling for how things work!
 
@@ -24,21 +26,6 @@ The [standard markdown syntax](https://github.com/adam-p/markdown-here/wiki/Mark
 
 or code-blocks `inline` or with highlighting (note the `@def hascode = true` in the source to allow [highlight.js](https://highlightjs.org/) to do its job):
 
-```julia
-abstract type Point end
-struct PointR2{T<:Real} <: Point
-    x::T
-    y::T
-end
-struct PointR3{T<:Real} <: Point
-    x::T
-    y::T
-    z::T
-end
-function len(p::T) where T<:Point
-  sqrt(sum(getfield(p, η)^2 for η ∈ fieldnames(T)))
-end
-```
 
 You can also quote stuff
 
@@ -104,7 +91,7 @@ In a similar vein you can cite references that would be at the bottom of the pag
 
 \newcommand{\bolditalic}[1]{_**!#1**_} <!--_ ignore this comment, it helps atom to not get confused by the trailing underscore when highlighting the code but is not necessary.-->
 
-and use it \bolditalic{here for example}.
+<!-- and use it \bolditalic{here for example}.
 
 Here's another quick one, a command to change the color:
 
@@ -186,4 +173,4 @@ Last modified: {{ fill fd_mtime }}.
 (cf. `src/_html_parts/page_foot.html`) which will then replace these braces with the content of a dictionary of variables at the key `fd_mtime`.
 This dictionary of variables is accessed locally by pages through `@def varname = value` and globally through the `config.md` page via the same syntax.
 
-There's a few other such functions of the form `{{fname p₁ p₂}}` as well as support for conditional blocks. If you wander through the `src/_html_parts/` folder and its content, you should be able to see those in action.
+There's a few other such functions of the form `{{fname p₁ p₂}}` as well as support for conditional blocks. If you wander through the `src/_html_parts/` folder and its content, you should be able to see those in action. -->
