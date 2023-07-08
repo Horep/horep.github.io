@@ -20,7 +20,7 @@ A partial write up of the Banach-Saks property ,the property where the mean of w
 <a href="/assets/pdfs/Banach_Saks.pdf" download="banachsaks.pdf"> [Download]</a>
 ~~~
 
-"Gaussian Arctan Integral":
+Gaussian Arctan Integral:
 ---
 A project investigating $\int_{0}^{\infty} e^{-x^2}/(1+x^2) \mathrm{d}x$ that went too far.
 
