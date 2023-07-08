@@ -12,3 +12,11 @@ Extensions of the Fransen-Robinson constant to the Hadamard and Luschny factoria
 <a href="/assets/pdfs/Recip_gamma_int.pdf" download="reciprocal.pdf"> [Download]</a>
 ~~~
 
+Banach Saks Property:
+---
+A partial write up of the Banach-Saks property ,the property where the mean of weakly convergent sequences is strongly convergent. Should be understandable to someone with knowledge of Hilbert spaces. Includes a (well-known) proof of the property for Hilbert spaces.
+
+~~~
+<a href="/assets/pdfs/Banach_Saks.pdf" download="banachsaks.pdf"> [Download]</a>
+~~~
+
