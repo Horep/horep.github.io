@@ -14,4 +14,4 @@ This contains a list of presentations that I have given:
 
 # Poster presentations
 
-1. _A decoupled, convergent and fully linear algorithm for the Landau-Lifshitz-Gilbert equation with magnetoelastic effects_. [The 13th International Symposium on Hysteresis Modeling and Micromagnetics (HMM 2023)](https://web.archive.org/web/20230329054943/https://www.asc.tuwien.ac.at/hmm2023/). June 4th to 7th, 2023. TU Wien, Austria. [DOWNLOAD](https://pureportal.strath.ac.uk/files/170904892/Normington_Ruggeri_HMM_2023_algorithm_for_the_Landau_Lifshitz_Gilbert_equation_with_magnetoelastic_effects.pdf)
+1. _A decoupled, convergent and fully linear algorithm for the Landau-Lifshitz-Gilbert equation with magnetoelastic effects_. [The 13th International Symposium on Hysteresis Modeling and Micromagnetics (HMM 2023)](https://web.archive.org/web/20230329054943/https://www.asc.tuwien.ac.at/hmm2023/). June 4th to 7th, 2023. TU Wien, Austria. [VIEW](https://pureportal.strath.ac.uk/files/170904892/Normington_Ruggeri_HMM_2023_algorithm_for_the_Landau_Lifshitz_Gilbert_equation_with_magnetoelastic_effects.pdf)
