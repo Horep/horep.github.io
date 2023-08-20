@@ -28,6 +28,6 @@ Layabout Mogg.
 
 Crouching kitten.
 
-@@img-medium ![](/assets/cat7.jpeg) @@
+@@img-medium ![](/assets/cat7.jpg) @@
 
 Cat flap viewer.
