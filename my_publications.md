@@ -1,8 +1,12 @@
 @def title = "Publications"
 
+# Submitted preprints
+
+1. H. Normington, M. Ruggeri: *A decoupled, convergent and fully linear algorithm for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects*. Submitted for publication (2023) [https://arxiv.org/abs/2309.00605](https://arxiv.org/abs/2309.00605)
+
 # Papers
 
-none
+
 
 # Sequences
 
