@@ -6,24 +6,28 @@ This is a section where you can look at pictures of my cat, Mogg. He is quite cu
 
 @@img-medium ![](/assets/cat1.jpg) @@
 
-Sleepy mogg.
+Sleepy Mogg.
 
 @@img-medium ![](/assets/cat2.jpg) @@
 
-Awake mogg, hugging a snowman food toy thing.
+Awake Mogg, hugging a snowman food toy thing.
 
 @@img-medium ![](/assets/cat3.jpg) @@
 
-Surprised mogg.
+Surprised Mogg.
 
 @@img-medium ![](/assets/cat4.jpg) @@
 
-Very tired mogg.
+Very tired Mogg.
 
 @@img-medium ![](/assets/cat5.jpeg) @@
 
-Layabout mogg.
+Layabout Mogg.
 
 @@img-medium ![](/assets/cat6.jpeg) @@
 
 Crouching kitten.
+
+@@img-medium ![](/assets/cat7.jpg) @@
+
+Cat flap viewer.
