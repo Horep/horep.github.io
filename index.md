@@ -3,7 +3,7 @@
 
 # Homepage of Hywel Normington
 
-\tableofcontents <!-- you can use \toc as well -->
+<!--\tableofcontents  you can use \toc as well -->
 
 Hi, my name is Hywel Normington. Welcome to my website. At the moment it is under construction 🚧🚧🚧, so bare with me.
 
