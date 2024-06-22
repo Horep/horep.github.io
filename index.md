@@ -5,7 +5,7 @@
 
 <!--\tableofcontents  you can use \toc as well -->
 
-Hi, my name is Hywel Normington. Welcome to my website. At the moment it is under construction 🚧🚧🚧, so bare with me.
+Hi, my name is Hywel Normington. Welcome to my website. At the moment it is under construction 🚧🚧🚧, so bear with me.
 
 I am a PhD student at the [Department of Mathematics and Statistics](https://www.strath.ac.uk/science/mathematicsstatistics/) of the [University of Strathclyde](https://www.strath.ac.uk/), working under [Dr Michele Ruggeri](https://mruggeri-math.github.io/). I am working on the [modelling, analysis and simulation of magnetoelastic materials](https://pureportal.strath.ac.uk/en/projects/modelling-analysis-and-simulation-of-magneto-elastic-and-magneto-).
 
