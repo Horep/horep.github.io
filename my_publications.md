@@ -3,10 +3,10 @@
 # Submitted preprints
 
 1. H. Normington, M. Ruggeri: *A decoupled, convergent and fully linear algorithm for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects*. Submitted for publication (2023) [https://arxiv.org/abs/2309.00605](https://arxiv.org/abs/2309.00605)
-1. H. Normington, M. Ruggeri: *Convergent finite element methods for antiferromagnetic and ferrimagnetic materials*. Submitted for publication (2023) [https://arxiv.org/abs/2312.04939](https://arxiv.org/abs/2312.04939)
 
 # Papers
 
+1. H. Normington, M. Ruggeri: *Convergent finite element methods for antiferromagnetic and ferrimagnetic materials*. Accepted for publication (2024) [https://arxiv.org/abs/2312.04939](https://arxiv.org/abs/2312.04939)
 
 
 # Sequences
