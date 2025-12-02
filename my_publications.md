@@ -1,12 +1,11 @@
 @def title = "Publications"
 
 # Preprints
-
+1. M. Kružík, H. Normington, M. Ruggeri: *A decoupled, unconditionally stable and second-order integrator for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects*.  (2025) [[https://doi.org/10.1016/j.camwa.2025.03.008](https://doi.org/10.48550/arXiv.2512.01741)]([https://doi.org/10.1016/j.camwa.2025.03.008](https://doi.org/10.48550/arXiv.2512.01741))
 # Papers
 
 1. H. Normington, M. Ruggeri: *Convergent finite element methods for antiferromagnetic and ferrimagnetic materials*. ESAIM: M2AN (2025) [https://doi.org/10.1051/m2an/2024065](https://doi.org/10.1051/m2an/2024065)
 2. H. Normington, M. Ruggeri: *A decoupled, convergent and fully linear algorithm for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects*. CAMWA (2025) [https://doi.org/10.1016/j.camwa.2025.03.008](https://doi.org/10.1016/j.camwa.2025.03.008)
-
 # Sequences
 
 These are sequences I have published on the Online Encyclopedia of Integer Sequences (OEIS):
