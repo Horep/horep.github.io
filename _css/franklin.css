@@ -38,9 +38,10 @@ html {
 }
 
 .franklin-content .container img {
-  width: auto;
+  width: 40%;
   padding-left: 0;
   border-radius: 10px;
+  float: right;
 }
 
 .franklin-content .footnote {
@@ -252,6 +253,11 @@ td {
   padding-left: 20%;
 }
 
+.franklin-content .img-tiny img {
+  width: 30%;
+  text-align: right;
+  padding-left: 70%;
+}
 /* ==================================================================
     KATEX
 ================================================================== */
