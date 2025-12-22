@@ -3,7 +3,7 @@
 # Homepage of Hywel Normington
 
 <!--\tableofcontents  you can use \toc as well -->
-@@img-tiny ![](/assets/me.jpg) @@
+@@container ![](/assets/me.jpg) @@
 Hi, my name is Hywel Normington. Welcome to my website.
 
 I am a PhD student at the [Department of Mathematics and Statistics](https://www.strath.ac.uk/science/mathematicsstatistics/) of the [University of Strathclyde](https://www.strath.ac.uk/), working under [Dr Michele Ruggeri](https://mruggeri-math.github.io/). I am working on the [modelling, analysis and simulation of magnetoelastic materials](https://pureportal.strath.ac.uk/en/projects/modelling-analysis-and-simulation-of-magneto-elastic-and-magneto-).
