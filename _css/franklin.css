@@ -256,7 +256,7 @@ td {
 .franklin-content .img-tiny img {
   width: 30%;
   text-align: right;
-  padding-left: 70%;
+  float: right;
 }
 /* ==================================================================
     KATEX
