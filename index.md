@@ -6,7 +6,7 @@
 @@container ![](/assets/me.jpg) @@
 Hi, my name is Hywel Normington. Welcome to my website.
 
-I am a PhD student at the [Department of Mathematics and Statistics](https://www.strath.ac.uk/science/mathematicsstatistics/) of the [University of Strathclyde](https://www.strath.ac.uk/), working under [Dr Michele Ruggeri](https://mruggeri-math.github.io/). I am working on the [modelling, analysis and simulation of magnetoelastic materials](https://pureportal.strath.ac.uk/en/projects/modelling-analysis-and-simulation-of-magneto-elastic-and-magneto-).
+I am a Post Doctoral Research Associate at the [Department of Mathematics](https://www.maths.manchester.ac.uk/) of the [University of Manchester](https://www.manchester.ac.uk/), working under [Professor Catherine Powell](https://personalpages.manchester.ac.uk/staff/Catherine.Powell/).
 
 For more information, please see the slide menu on the left!
 
@@ -17,11 +17,13 @@ Email: <a href="mailto:hywel.normington@strath.ac.uk">hywel.normington@strath.ac
 ~~~
 
 Mailing Address:
-Department of Mathematics and Statistics
+Alan Turing Building
 
-University of Strathclyde
+Department of Mathematics
 
-26 Richmond Street, Glasgow G1 1XH, United Kingdom
+University of Manchester
+
+Oxford Road, Manchester, M13 9PL, UK. 
 <!-- This section is meant as a refresher if you're new to Franklin.
 Have a look at both how the website renders and the corresponding markdown (`index.md`).
 Modify at will to get a feeling for how things work!
