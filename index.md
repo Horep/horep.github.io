@@ -1,4 +1,4 @@
-@def title = "Hywel Normington | University of Strathclyde"
+@def title = "Hywel Normington | University of Manchester"
 @def tags = ["syntax", "code"]
 # Homepage of Hywel Normington
 
