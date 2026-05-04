@@ -13,7 +13,7 @@ For more information, please see the slide menu on the left!
 **Contact Details:**
 
 ~~~
-Email: <a href="mailto:hywel.normington@strath.ac.uk">hywel.normington@strath.ac.uk</a>
+Email: <a href="mailto:hywel.normington@manchester.ac.uk">hywel.normington@manchester.ac.uk</a>
 ~~~
 
 Mailing Address:
