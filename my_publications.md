@@ -1,7 +1,7 @@
 @def title = "Publications"
 
 # Theses
-1. H. Normington: *Numerical analysis and simulation of magnetoelastic, antiferromagnetic, and ultrafast magnetic materials*. (2026)
+1. H. Normington: *Numerical analysis and simulation of magnetoelastic, antiferromagnetic, and ultrafast magnetic materials*. (2026) [https://doi.org/10.48730/zx90-9g15](https://doi.org/10.48730/zx90-9g15)
  
 # Preprints
 1. M. Kružík, H. Normington, M. Ruggeri: *A decoupled, stable, and second-order integrator for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects*.  (2025) [https://doi.org/10.48550/arXiv.2512.01741](https://doi.org/10.48550/arXiv.2512.01741)
